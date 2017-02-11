@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomePay.Website", "TakeHomePay.Website\TakeHomePay.Website.csproj", "{21984745-7C7E-4B35-93A9-56D2E14F4480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeHomePay.Website.Tests", "TakeHomePay.Website.Tests\TakeHomePay.Website.Tests.csproj", "{54166A72-DB44-4DA4-97F8-F6EB35FF892F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21984745-7C7E-4B35-93A9-56D2E14F4480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21984745-7C7E-4B35-93A9-56D2E14F4480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21984745-7C7E-4B35-93A9-56D2E14F4480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21984745-7C7E-4B35-93A9-56D2E14F4480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54166A72-DB44-4DA4-97F8-F6EB35FF892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54166A72-DB44-4DA4-97F8-F6EB35FF892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54166A72-DB44-4DA4-97F8-F6EB35FF892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54166A72-DB44-4DA4-97F8-F6EB35FF892F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
